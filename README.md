@@ -43,6 +43,14 @@ for i in car:
 
 Esto es probando el git branch
 
-# Actualizacion 3 
 
-Probando git branch just with vsc
+
+## Actualizacion 3
+
+Cree una actualizacion donde 
+
+- Cree un branch de Andres-v1
+- Lo subire como pull request
+- Lo mergeare con master
+
+- Lo borrare
