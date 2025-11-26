@@ -73,3 +73,7 @@ desde Visual studio despues de todo **el hermoso lio de chatgpt**
 Actualizacion desde Visual studio
 - Con cambio en read me
 - Nombre Andres-cambiosv6
+
+## Actualizacion 7 
+
+Desde visual studio code panel 
